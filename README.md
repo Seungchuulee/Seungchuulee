@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={kotelsc})](https://solved.ac/{kotelsc})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=kotelsc)](https://solved.ac/kotelsc)
 
 <!--
 **Seungchuulee/Seungchuulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
