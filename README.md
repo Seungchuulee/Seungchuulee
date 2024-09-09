@@ -1,6 +1,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kotelsc)](https://solved.ac/kotelsc)
-
+# 자격증
+- SQLD
+- ADsP 
 <!--
 **Seungchuulee/Seungchuulee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
